@@ -18,4 +18,3 @@ draw = function () {
 
   x += 1;
 };
-draw();
